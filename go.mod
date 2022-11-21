@@ -21,4 +21,5 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/cobra v0.0.5
 	github.com/zh-five/xdaemon v0.1.1
+	golang.org/x/sys v0.2.0 // indirect
 )
