@@ -54,7 +54,7 @@ new Vue({
                     return;
                 }
                 this.visitor.to_id=msg.id;
-                this.showTitle(msg.name+","+GOFLY_LANG[LANG]['chating']);
+                this.showTitle(msg.name+","+GOFLY_LANG[LANG]['chatting']);
                 this.scrollBottom();
                 this.showKfonline=true;
             }
